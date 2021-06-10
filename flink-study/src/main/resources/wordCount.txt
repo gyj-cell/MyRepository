@@ -1,0 +1,5 @@
+hello world hello hadoop hello java hello scala
+hello elasticsearch hello php hello shell
+elasticsearch is very good
+The java is very nice
+public static void main
